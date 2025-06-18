@@ -4,7 +4,7 @@
 ---
 
 ### 🔍 About Me
-- 🎓 Pursuing B.Sc Computer Science at **Annamalai University**  
+- 🎓 Pursuing B.E Computer Science and Engineering at **Annamalai University**  
 - 🔐 Deep interest in **Cybersecurity**, **Networking**, and **Machine Learning**
 - 🤖 Hands-on with **Machine Learning**, **FastAPI**, **Streamlit**, 
 - 🧪 Currently building an **Cloud-Based Sentiment Analysis** 
@@ -22,7 +22,7 @@
 ### 🛠️ Tech Stack
 ```plaintext
 Languages:     Python | Java | C | C++ | HTML/CSS | SQL | Bash Scripting 
-Tools:         FastAPI | Streamlit | Git/GitHub | Docker | Tableau | jupyter notebook
+Tools:         Git/GitHub | Docker | Tableau | jupyter notebook
 ML Libraries:  Scikit-learn | NLTK | Pandas | NumPy 
 Cyber Tools:   Wireshark | Burp Suite | Nmap
 Python Libraries/Frameworks: FastAPI | Tkinter | turtle | Flask
