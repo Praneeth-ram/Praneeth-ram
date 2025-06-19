@@ -10,6 +10,7 @@
 - 🧪 Currently building an **Cloud-Based Sentiment Analysis** 
 - 🌐 Developed a **Phishing Detection Using Machine Learning**, **Game Recommender**, and more
 - 🚀 Actively learning & contributing to open source
+- 🔗 **Portfolio Website**: https://praneeth08.netlify.app/
 
 ---
 
