@@ -17,6 +17,7 @@
 ### 💼 Internship Experience 
 - 🛡️ **Cybersecurity Intern** at Vault Infosec — *Vulnerability Assessment*  
 - 💻 **Java Developer Intern** at CodSoft — *GUI Projects, OOP, Java*  
+- 🤖 **Machine Learning Intern** at ApproTech Solutions and Pvt. Ltd. — *Data Preprocessing, Model Building, Scikit-learn, Real-time ML Applications.*
 
 ---
 
