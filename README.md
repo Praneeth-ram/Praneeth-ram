@@ -27,7 +27,7 @@ Languages:     Python | Java | C | C++ | HTML/CSS | SQL | Bash Scripting
 Tools:         Git/GitHub | Docker | Tableau | jupyter notebook
 ML Libraries:  Scikit-learn | NLTK | Pandas | NumPy 
 Cyber Tools:   Wireshark | Burp Suite | Nmap
-Python Libraries/Frameworks: FastAPI | Tkinter | turtle | Flask
+Python Libraries/Frameworks: FastAPI | Tkinter | turtle | Flask | Scikit-learn | Pandas | NumPy | Matplotlib 
 ```
 ### 🚀 Featured Projects
 Here are some of the projects I have done:
