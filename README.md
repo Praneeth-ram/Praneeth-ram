@@ -5,9 +5,8 @@
 
 ### 🔍 About Me
 - 🎓 Pursuing B.E Computer Science and Engineering at **Annamalai University**  
-- 🔐 Deep interest in **Cybersecurity**, **Networking**, and **Machine Learning**
-- 🤖 Hands-on with **Machine Learning**, **FastAPI**, **Streamlit**, 
-- 🧪 Currently building an **Cloud-Based Sentiment Analysis** 
+- 🔐 Deep interest in **Cybersecurity**, **Artificial Intelligence**, and **Machine Learning**
+- 🤖 Hands-on with **Machine Learning**, **Cybersecurity**
 - 🌐 Developed a **Phishing Detection Using Machine Learning**, **Game Recommender**, and more
 - 🚀 Actively learning & contributing to open source
 - 🔗 **Portfolio Website**: https://praneeth08.netlify.app/
@@ -23,11 +22,10 @@
 
 ### 🛠️ Tech Stack
 ```plaintext
-Languages:     Python | Java | C | C++ | HTML/CSS | SQL | Bash Scripting 
-Tools:         Git/GitHub | Docker | Tableau | jupyter notebook
-ML Libraries:  Scikit-learn | NLTK | Pandas | NumPy 
-Cyber Tools:   Wireshark | Burp Suite | Nmap
-Python Libraries/Frameworks: FastAPI | Tkinter | turtle | Flask 
+Languages:     Python | Java | C | C++ | HTML/CSS | SQL | Bash Scripting | Javascript
+Tools:         Git/GitHub | Docker | Tableau | jupyter notebook | Burp Suite
+ML Libraries:  Scikit-learn | NLTK | Pandas | NumPy  
+Python Libraries/Frameworks: FastAPI | Tkinter | turtle | Flask | OpenCV
 ```
 ### 🚀 Featured Projects
 Here are some of the projects I have done:
