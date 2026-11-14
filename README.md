@@ -24,7 +24,7 @@ I build AI-powered applications and scalable software solutions, combining backe
 ## 🛠️ Tech Stack
 ### Programming Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=python,java,js,ts" height="45" />
+  <img src="https://skillicons.dev/icons?i=python,java,js" height="45" />
   <img src="https://cdn.simpleicons.org/mysql/4479A1" height="45" alt="SQL" />
 </p>
 
