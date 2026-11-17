@@ -59,62 +59,60 @@ praneeth@matrix:~$ _
 <div align="center">
 
 ### 💻 Languages
-<img src="./icons/python-svgrepo-com.svg" height="48" alt="Python" />
-<img src="./icons/java-svgrepo-com.svg" height="48" alt="Java" />
-<img src="./icons/javascript-svgrepo-com.svg" height="48" alt="JavaScript" />
-<img src="./icons/C++ (CPlusPlus).svg" height="48" alt="C++" />
-<img src="./icons/Arduino.svg" height="48" alt="Arduino" />
-<img src="./icons/bash-icon-svgrepo-com.svg" height="48" alt="Bash" />
-<img src="https://cdn.simpleicons.org/mysql/00f5d4" height="48" alt="SQL" />
+
+<img src="./icons/python-svgrepo-com.svg" height="44" alt="Python" />&nbsp;&nbsp;&nbsp;
+<img src="./icons/java-svgrepo-com.svg" height="44" alt="Java" />&nbsp;&nbsp;&nbsp;
+<img src="./icons/javascript-svgrepo-com.svg" height="44" alt="JavaScript" />&nbsp;&nbsp;&nbsp;
+<img src="./icons/C%2B%2B%20(CPlusPlus).svg" height="44" alt="C++" />&nbsp;&nbsp;&nbsp;
+<img src="./icons/bash-icon-svgrepo-com.svg" height="44" alt="Bash" />
 
 ### 🎨 Frontend
-<img src="./icons/html-5-svgrepo-com.svg" height="48" alt="HTML5" />
-<img src="./icons/css-3-svgrepo-com.svg" height="48" alt="CSS3" />
-<img src="./icons/react-svgrepo-com.svg" height="48" alt="React" />
+
+<img src="./icons/html-5-svgrepo-com.svg" height="44" alt="HTML5" />&nbsp;&nbsp;&nbsp;
+<img src="./icons/css-3-svgrepo-com.svg" height="44" alt="CSS3" />&nbsp;&nbsp;&nbsp;
+<img src="./icons/react-svgrepo-com.svg" height="44" alt="React" />
 
 ### ⚙️ Backend
-<img src="./icons/python-svgrepo-com.svg" height="48" alt="Python" />
-<img src="./icons/FastAPI.svg" height="48" alt="FastAPI" />
-<img src="./icons/Flask.svg" height="48" alt="Flask" />
-<img src="./icons/Swagger.svg" height="48" alt="Swagger" />
+
+<img src="./icons/python-svgrepo-com.svg" height="44" alt="Python" />&nbsp;&nbsp;&nbsp;
+<img src="./icons/FastAPI.svg" height="44" alt="FastAPI" />&nbsp;&nbsp;&nbsp;
+<img src="./icons/Flask.svg" height="44" alt="Flask" />
 
 ### 🗄️ Databases
-<img src="./icons/postgresql-svgrepo-com.svg" height="48" alt="PostgreSQL" />
-<img src="./icons/Redis.svg" height="48" alt="Redis" />
+
+<img src="./icons/postgresql-svgrepo-com.svg" height="44" alt="PostgreSQL" />&nbsp;&nbsp;&nbsp;
+<img src="./icons/Redis.svg" height="44" alt="Redis" />
 
 ### 🧠 AI & Machine Learning
-<img src="./icons/PyTorch.svg" height="48" alt="PyTorch" />
-<img src="./icons/TensorFlow.svg" height="48" alt="TensorFlow" />
-<img src="./icons/hugging-face.svg" height="48" alt="Hugging Face" />
-<img src="./icons/OpenCV.svg" height="48" alt="OpenCV" />
-<img src="./icons/Matplotlib.svg" height="48" alt="Matplotlib" />
-<br><br>
-<img src="https://cdn.simpleicons.org/langchain/00f5d4" height="42" alt="LangChain" />
-&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/langgraph/7b2ff7" height="42" alt="LangGraph" />
-<br><br>
-<img src="https://img.shields.io/badge/LLMs-7b2ff7?style=flat-square" />
-<img src="https://img.shields.io/badge/RAG-00f5d4?style=flat-square&logoColor=black" />
-<img src="https://img.shields.io/badge/FAISS-0467DF?style=flat-square" />
-<img src="https://img.shields.io/badge/Embeddings-7b2ff7?style=flat-square" />
-<img src="https://img.shields.io/badge/Semantic_Search-00f5d4?style=flat-square&logoColor=black" />
+
+<img src="https://cdn.simpleicons.org/pytorch/EE4C2C" height="44" alt="PyTorch" />&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/tensorflow/FF6F00" height="44" alt="TensorFlow" />&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/huggingface/FFD21E" height="44" alt="Hugging Face" />&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/opencv/5C3EE8" height="44" alt="OpenCV" />&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/scikitlearn/F7931E" height="44" alt="scikit-learn" />&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/numpy/013243" height="44" alt="NumPy" />&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/pandas/150458" height="44" alt="Pandas" />&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/jupyter/F37626" height="44" alt="Jupyter" />
+<img src="https://cdn.simpleicons.org/langchain/00f5d4" height="44" alt="LangChain" />&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/ollama/FFFFFF" height="44" alt="Ollama" />&nbsp;&nbsp;&nbsp;
 
 ### 🛠️ Tools
-<img src="./icons/Git.svg" height="48" alt="Git" />
-<img src="./icons/github-icon-svgrepo-com.svg" height="48" alt="GitHub" />
-<img src="./icons/GitHub Actions.svg" height="48" alt="GitHub Actions" />
-<img src="./icons/Docker.svg" height="48" alt="Docker" />
-<img src="./icons/linux-tux-svgrepo-com.svg" height="48" alt="Linux" />
-<img src="./icons/Visual Studio Code (VS Code).svg" height="48" alt="VS Code" />
-<img src="./icons/postman-icon-svgrepo-com.svg" height="48" alt="Postman" />
-<img src="./icons/figma-svgrepo-com.svg" height="48" alt="Figma" />
-<img src="./icons/Canva.svg" height="48" alt="Canva" />
-<img src="./icons/tableau-icon-svgrepo-com.svg" height="48" alt="Tableau" />
+
+<img src="./icons/github-icon-svgrepo-com.svg" height="44" alt="GitHub" />&nbsp;&nbsp;&nbsp;
+<img src="./icons/GitHub%20Actions.svg" height="44" alt="GitHub Actions" />&nbsp;&nbsp;&nbsp;
+<img src="./icons/Git.svg" height="44" alt="Git" />&nbsp;&nbsp;&nbsp;
+<img src="./icons/Docker.svg" height="44" alt="Docker" />&nbsp;&nbsp;&nbsp;
+<img src="./icons/linux-tux-svgrepo-com.svg" height="44" alt="Linux" />&nbsp;&nbsp;&nbsp;
+<img src="./icons/Visual%20Studio%20Code%20(VS%20Code).svg" height="44" alt="VS Code" />&nbsp;&nbsp;&nbsp;
+<img src="./icons/postman-icon-svgrepo-com.svg" height="44" alt="Postman" />&nbsp;&nbsp;&nbsp;
+<img src="./icons/figma-svgrepo-com.svg" height="44" alt="Figma" />&nbsp;&nbsp;&nbsp;
+<img src="./icons/tableau-icon-svgrepo-com.svg" height="44" alt="Tableau" />&nbsp;&nbsp;&nbsp;
+<img src="./icons/Arduino.svg" height="44" alt="Arduino" />&nbsp;&nbsp;&nbsp;
+<img src="./icons/Swagger.svg" height="44" alt="Swagger" />
 
 </div>
 
 ---
-
 ## 💡 Featured Projects
 
 ### 📄 Smart Resume Analyzer
