@@ -2,10 +2,17 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0a0f1f,100:00f5d4&height=180&section=header&text=Praneeth%20Ram&fontSize=48&fontColor=00f5d4&animation=fadeIn&fontAlignY=38&desc=AI%2FML%20%7C%20Full-Stack%20Developer&descAlignY=62&descSize=16&descColor=c9d1d9" width="100%" />
 
+<a href="https://github.com/Praneeth-ram">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=00F5D4&center=true&vCenter=true&multiline=false&repeat=true&width=700&height=40&lines=Software+Engineer+%C2%B7+AI%2FML+Developer+%C2%B7+Full-Stack+Developer" alt="Typing role animation" />
+</a>
+
+<br><br>
+
 <p>
-  <a href="https://praneethram08.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-Visit-00f5d4?style=flat-square&logo=googlechrome&logoColor=black&labelColor=0a0f1f" /></a>
-  <a href="https://www.linkedin.com/in/praneeth-ram-72487527b/"><img src="https://img.shields.io/badge/LinkedIn-Connect-7b2ff7?style=flat-square&logo=linkedin&logoColor=white&labelColor=0a0f1f" /></a>
-  <a href="https://github.com/Praneeth-ram"><img src="https://img.shields.io/badge/GitHub-Follow-00f5d4?style=flat-square&logo=github&logoColor=black&labelColor=0a0f1f" /></a>
+  <a href="https://praneethram08.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-Visit-00f5d4?style=for-the-badge&logo=googlechrome&logoColor=black&labelColor=0a0f1f" /></a>
+  <a href="https://www.linkedin.com/in/praneeth-ram-72487527b/"><img src="https://img.shields.io/badge/LinkedIn-Connect-7b2ff7?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0a0f1f" /></a>
+  <a href="https://github.com/Praneeth-ram"><img src="https://img.shields.io/badge/GitHub-Follow-00f5d4?style=for-the-badge&logo=github&logoColor=black&labelColor=0a0f1f" /></a>
+  <img src="https://img.shields.io/badge/Location-Chennai%2C%20India-7b2ff7?style=for-the-badge&logo=googlemaps&logoColor=white&labelColor=0a0f1f" />
 </p>
 
 </div>
@@ -14,16 +21,9 @@
 
 ## 👾 Hi, I'm Praneeth Ram
 
-**Software Engineer · AI/ML Developer · Full-Stack Developer**
+I build AI-powered applications and scalable software solutions, blending backend engineering, modern web technologies, and Generative AI. I focus on clean architecture, reliable APIs, and intelligent systems that turn complex data into practical tools people can use every day.
 
-I build AI-powered applications and scalable software solutions, combining backend engineering, modern web technologies, and Generative AI.
 
-📍 India<br>
-🔗 [Portfolio](https://praneethram08.netlify.app/)<br>
-💼 [LinkedIn](https://www.linkedin.com/in/praneeth-ram-72487527b/)<br>
-🐙 [GitHub](https://github.com/Praneeth-ram)
-
----
 
 ## ⚡ About Me
 
@@ -76,7 +76,7 @@ praneeth@matrix:~$ _
 
 <img src="./icons/python-svgrepo-com.svg" height="44" alt="Python" />&nbsp;&nbsp;&nbsp;
 <img src="./icons/FastAPI.svg" height="44" alt="FastAPI" />&nbsp;&nbsp;&nbsp;
-<img src="./icons/Flask.svg" height="44" alt="Flask" />
+<img src="https://cdn.simpleicons.org/flask/FFFFFF" height="44" alt="Flask" />&nbsp;&nbsp;&nbsp;
 
 ### 🗄️ Databases
 
@@ -155,19 +155,23 @@ A computer vision application for detecting and tracking multiple people across 
 
 ---
 
-## 🤝 Connect With Me
+---
 
-I'm interested in Software Engineering, AI Engineering, and Full-Stack Development opportunities.
+## 🤝 Connect With Me
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/praneeth-ram-72487527b/"><img src="https://img.shields.io/badge/LinkedIn-Praneeth_Ram-7b2ff7?style=flat-square&logo=linkedin&logoColor=white&labelColor=0a0f1f" /></a>
-<a href="https://praneethram08.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-Visit_My_Website-00f5d4?style=flat-square&logo=googlechrome&logoColor=black&labelColor=0a0f1f" /></a>
-<a href="https://github.com/Praneeth-ram"><img src="https://img.shields.io/badge/GitHub-Praneeth--ram-00f5d4?style=flat-square&logo=github&logoColor=black&labelColor=0a0f1f" /></a>
+I'm open to Software Engineering, AI Engineering, and Full-Stack Development opportunities.
+
+<br>
+
+<a href="https://www.linkedin.com/in/praneeth-ram-72487527b/"><img src="https://img.shields.io/badge/LinkedIn-Connect-7b2ff7?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0a0f1f" /></a>&nbsp;&nbsp;
+<a href="https://praneethram08.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-Visit-00f5d4?style=for-the-badge&logo=googlechrome&logoColor=black&labelColor=0a0f1f" /></a>&nbsp;&nbsp;
+<a href="https://github.com/Praneeth-ram"><img src="https://img.shields.io/badge/GitHub-Follow-00f5d4?style=for-the-badge&logo=github&logoColor=black&labelColor=0a0f1f" /></a>
 
 <br><br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f5d4,50:0a0f1f,100:000000&height=100&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f5d4,50:7b2ff7,100:0a0f1f&height=100&section=footer" width="100%" />
 
 <i>Building, learning, and turning ideas into practical software solutions.</i>
 
